@@ -1,2 +1,5 @@
 # Computer_Architecture
-final project of the course
+Design processor cache with LRU policy
+
+## Flow Chart
+![](flowChart.jpg)
